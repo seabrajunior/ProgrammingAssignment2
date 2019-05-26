@@ -1,7 +1,7 @@
 ## By Onédio Junior
 ## 26 May 19
 ## The following functions is used to create a special object that stores a matrix 
-## and cache
+## and cache.
 
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
